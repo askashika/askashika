@@ -1,7 +1,15 @@
-<h2 align="left">Hi 👋! I am Ashika</h2>
+<h1 align="center">Hi 👋, I'm Ashika</h1>
+<h3 align="center">A passionate frontend developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=askashika&label=Profile%20views&color=0e75b6&style=flat" alt="askashika" /> </p>
 
 ###
 
+- 🔭 I’m currently working on **PrepHub**
+
+- 🌱 I’m currently learning **FastAPI**
+
+- 📫 How to reach me **ashika8811@gmil.com**
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=askashika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=askashika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -37,6 +45,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+
+
+
+
+
 
 </div>
 
