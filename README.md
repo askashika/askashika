@@ -15,6 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=askashika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askashika&theme=dracula&hide_border=false" alt="askashika"/>
+</div>
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
